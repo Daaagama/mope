@@ -127,7 +127,7 @@ class Experiment:
 
 if __name__ == '__main__':
     m = 11
-    if m>9 :
+    if m>20 :
         print('Невірні вхідні данні')
         exit(0)
     X1_range = [15, 45]
